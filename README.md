@@ -6,3 +6,16 @@ To analyze sales performance, outlet characteristics, and product categories fro
 
 ## Dataset Used
 
+- <a href="https://github.com/AkashVR07/Excel-Blinkit-Grocery-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">Blinkit Grocery Data</a>
+
+## Questions (KPIs)
+
+- What is the total and average sales per outlet type and location?
+
+- Which item types generate the most revenue?
+
+- How does outlet size and type affect total sales?
+
+- What is the visibility of products contributing to higher ratings or sales?
+
+- Which establishment years correlate with higher performance?
